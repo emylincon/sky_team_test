@@ -1,0 +1,7 @@
+Region : Ireland (EU-west-1)
+Amazon linux AMI
+T2.micro
+Labels - Server type: linux box
+Security group - new: SSH TCP 22
+
+Clone python app repo to instance
