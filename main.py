@@ -1,9 +1,9 @@
-from emeka.py import emeka
-from will.py import will
-from kevin.py import kevin
-from callum.py import callum
+import emeka
+import will
+import kevin
+import callum
 
-print(emeka)
-print(will)
-print(kevin)
-print(callum)
+print(emeka.name)
+print(will.will)
+print(kevin.kevin)
+print(callum.name)
