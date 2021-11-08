@@ -1,2 +1,2 @@
 def kevin():
-    return("kevin is the best")
+    return("kevin is the worst")
