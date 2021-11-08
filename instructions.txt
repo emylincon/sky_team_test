@@ -1,7 +1,12 @@
 Region : Ireland (EU-west-1)
 Amazon linux AMI
 T2.micro
+16GB
 Labels - Server type: linux box
 Security group - new: SSH TCP 22
 
 Clone python app repo to instance
+
+----------
+Install JRE and JDK: 2 types of instances of Java
+Maven
