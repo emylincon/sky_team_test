@@ -6,3 +6,18 @@ sudo yum install -y apache-maven
 sudo yum install java-1.8.0-devel
 sudo /usr/sbin/alternatives --config java
 sudo /usr/sbin/alternatives --config javac
+
+---------------
+Jenkins
+
+Follow instructions, but before yum installing Jenkins   #due to using Amazon Linux 2 AMI
+
+sudo amazon-linux-extras install epel -y
+
+
+------------------
+
+
+sudo service tomcat start  #Web server that can run JSP (java server pages). Is a standard and very popular
+# Lightweight and quick
+
