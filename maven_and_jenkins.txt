@@ -14,7 +14,8 @@ Follow instructions, but before yum installing Jenkins   #due to using Amazon Li
 
 sudo amazon-linux-extras install epel -y
 
-
+By default Jenkins runs on port 8080 (note springbox app also on port 8080!) #change this port
+Get admin initial password by following instructions (hidden inside a file /jenkins_home/secrets/initialAdminPassword)
 ------------------
 
 
