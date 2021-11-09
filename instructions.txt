@@ -9,6 +9,6 @@ Clone python app repo to instance
 
 ----------
 Install JRE and JDK: 2 types of instances of Java
-JRE: to run Java stuff
-JDK: to build Java stuff
-Maven
+JRE: to run Java stuff (RUN MACHINE)
+JDK: to build Java stuff (BUILD MACHINE)
+Install maven
